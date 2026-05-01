@@ -2,6 +2,8 @@
 
 **100% Python · 0% GUI clicks**
 
+https://github.com/user-attachments/assets/f56f462e-d6fb-4c8e-8449-23f39986daf1
+
 ![Patch antenna animation](patch_antenna_showcase.mp4)
 
 <div align="center">
