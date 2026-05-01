@@ -95,3 +95,11 @@ logs/
 
 # System files
 .localized
+
+# AEDT binaries (added post-cleanup)
+*.aedt
+*.aedb
+*.aedtresults/
+*.aedtmesh
+*.aedtlock
+*.lock
