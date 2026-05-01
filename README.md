@@ -245,7 +245,16 @@ RF/Microwave Engineer | Simulation Automation
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
-You are free to use, modify, and distribute this code for educational and commercial purposes. Attribution is appreciated but not required.
+## Attribution
+
+If you find this repository useful for your own work, learning, or portfolio:
+- Code may be reused under the MIT License (please retain the copyright notice).
+- The technical writeup (PDF) is shared for educational purposes — please cite if you reference its content.
+- A LinkedIn message of "this helped me" is always appreciated.
+
+Author: Kaan Evran
+LinkedIn: linkedin.com/in/kaan-evran-8463a7263
+GitHub: github.com/kaanevranportfolio
 
 ---
 
